@@ -36,4 +36,4 @@ function randint(min, max) {
 [윤기환인스타](https://www.instagram.com/ykh0624/, "팔로우해주세요")
 
 ### 이미지 추가하기
-![이미지다히히] (./up.png)
+![이미지](./up.png)
