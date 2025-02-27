@@ -27,5 +27,7 @@ function randint(min, max) {
 ### 링크 입력하기
 
 <https://www.instagram.com/ykh0624/>
+
 [윤기환인스타](https://www.instagram.com/ykh0624/)
+
 [윤기환인스타](https://www.instagram.com/ykh0624/, "팔로우해주세요")
